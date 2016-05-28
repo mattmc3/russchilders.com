@@ -7,7 +7,6 @@
 
 # Site settings
 title: "Russ Childers"
-email: "russchilders@fuse.net"
 description: > # this means to ignore newlines until "baseurl:"
   Russ Childers is available for programs on Appalachian traditions, from one-hour
   presentations to two or three-week residencies which may include storytelling,
@@ -31,7 +30,7 @@ author:
   address          : "1555 Old State Route 74"
   citystatezip     : "Batavia, Ohio 45103"
   phone            : "513-732-2015"
-  email            : "russchilders@fuse.net"
+  email            : "russchilders1@gmail.com"
   facebook         : BearFootMusicStoriesDance
 
 gems:
