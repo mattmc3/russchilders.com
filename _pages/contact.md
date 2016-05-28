@@ -46,3 +46,7 @@ This site was originally created by Sarah Childers, and was modernized and maint
 [Matt McElheny](https://www.linkedin.com/in/selectstar){: style="white-space:nowrap"}.
 
 If you find any errors, please contact [{{ site.author.name }}](mailto:{{ site.author.email }})
+
+## Credits
+
+[attribution]({{ site.baseurl }}/attribution.html)

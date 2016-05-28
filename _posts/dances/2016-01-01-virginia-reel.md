@@ -2,9 +2,7 @@
 layout: post
 title:  "Virginia Reel"
 category: Dances
-ordinal: 99
 ---
-
 
 Prompts to Virginia Reel:   
 8 cts. Honor your partner (forward-2-3-bow; back-2-3-4)   
