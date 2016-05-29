@@ -69,3 +69,10 @@ p.figure-center em {
 
 .home h1 {
   margin: 0 0 .5em 0; }
+
+.page-anchors a {
+  font-size: 9pt;
+  white-space: nowrap; }
+
+.page-anchors {
+  margin-bottom: 1em; }
