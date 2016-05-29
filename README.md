@@ -12,3 +12,6 @@ TODO:
 [] Repoint DNS
 [] Russ github account
 [] Russ prose.io account
+[] Posts page:
+   - Add categories, tags, dates ???
+[] SCSS!
