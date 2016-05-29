@@ -1,3 +1,5 @@
+---
+---
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -1190,7 +1192,7 @@
 	@include breakpoint(large) {
 
 		$size-header-width: 30%;
-		$size-header-pad: 3em;
+		$size-header-pad: 2em;
 
 		/* Header */
 
@@ -1425,6 +1427,14 @@
 		$size-header-pad: 1.5em;
 
 		/* List */
+			.dropbtn {
+				font-size: 8pt !important;
+				margin-right: 3px !important;
+			}
+			.nav-link {
+				font-size: 8pt !important;
+				margin-right: 3px !important;
+			}
 
 			ul {
 				&.actions {
