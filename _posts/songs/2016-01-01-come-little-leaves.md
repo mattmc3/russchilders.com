@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "comelittleleaves"
-category: song
+category: Songs
 ---
 
-[More Songs](/songs.html)
+[More Songs]({{ site.baseurl }}/songs.html)
