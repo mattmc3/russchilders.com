@@ -14,16 +14,15 @@ _Rabbit Hash, Kentucky, is where I want to be; cornbread, molasses, and sassafra
 
 ## Audio and Video Samples
 
+_**[Where I Want to Be](RHSB_CD_COVER.HTML)**_ - Rabbit Hash String Band's latest CD
+
 [![Album Cover](assets/images/RHSB_COVER_THUMB.jpg)](RHSB_CD_COVER.HTML)
-{: style="display: inline-block;"}
-_**Where I Want to Be**_ - Rabbit Hash String Band's latest CD
-{: style="display: inline-block; vertical-align:bottom;"}
 
-[Run Mountain](assets/music/Run_Mountain.mp3) - click for audio sample from CD.
 
-[Click here](RHSB_CD_COVER.HTML) for liner notes of _Where I Want to Be_ CD.
+## Visit us on Facebook!
 
-<br />
+{: .contact-list }
+* {% include facebook.html link-text="Rabbit Hash String Band" link="Rabbit-Hash-String-Band-206760203037" %}
 
 #### Links to YouTube videos:
 

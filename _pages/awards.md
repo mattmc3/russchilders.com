@@ -13,12 +13,9 @@ body { font-size: 11pt; }
 {: .figure .figure-right style="width:200px" }
 ![Gourd Banjo](assets/images/gourd.jpg)
 
-* Artist-in-residence, [Ohio Arts Council](http://www.oac.state.oh.us/){:target="_blank"}, Artist-in-Education Program
-* Past Artist-in-residence, Kentucky Arts Council, Artist-in-Education Program
-* Advisory Board of the Cincinnati Urban Appalachian Council Cultural Committee
-* Cincinnati Arts Association, contact [Kathleen Riemenschneider](mailto:kriemenschneider@cincinnatiarts.org)
-* Urban Appalachian Council
-* Cincinnati School Board - Art Links Program ["Certificate of Completion"](assets/images/artlink.jpg)
+* [Ohio Arts Council](http://www.oac.state.oh.us/){:target="_blank"}, Artist-in-Education Program
+* Urban Appalachian Community Coalition, Cultural Advisor [http://uacvoice.org](http://uacvoice.org){:target="_blank"}
+* Cincinnati Arts Association, [Artists on Tour](https://www.cincinnatiarts.org/education-community/artists-on-tour){:target="_blank"}
 
 ## Awards
 

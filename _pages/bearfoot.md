@@ -29,6 +29,9 @@ place. With Russ on banjo or fiddle and Barb on guitar, washboard, spoons,
 paperbags, and even feet, share the music, stories, games, songs, and dances of
 the Appalachian Mountains as it was in the time before television. Imagine...!
 
+## Visit us on Facebook!
+{% include facebook.html link-text="Barb and Russ Childers - Bear Foot" link="BearFootMusicStoriesDance" %}
+
 Click this link to hear a sample home recording of Bear Foot performing
 [McMichen's Reel](assets/music/Mcmichen.mp3) - A Skillet Lickers tune played by
 Bear Foot (Russ and Barb Childers) at the 2001 Breakin' Up Winter Festival in

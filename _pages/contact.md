@@ -11,6 +11,7 @@ presentations to two or three-week residencies which may include storytelling,
 music and songs with traditional instruments, or basic techniques in
 mountain-style squaredancing.
 
+
 ## Email
 
 ![yipee](assets/images/publicity_3.jpg){: style="float:right;width:120px"}
@@ -20,11 +21,12 @@ e-mail request to
 <i class="fa fa-envelope-o" aria-hidden="true"></i>
 [{{ site.author.email }}](mailto:{{ site.author.email }})!
 
-## Facebook
-<i class="fa fa-facebook-square" aria-hidden="true"></i>
-<a href="https://facebook.com/{{ site.author.facebook }}">
-Follow us on Facebook!
-</a>
+
+## Visit us on Facebook!
+
+{: .contact-list }
+* {% include facebook.html link-text="Barb and Russ Childers - Bear Foot" link="BearFootMusicStoriesDance" %}
+* {% include facebook.html link-text="Rabbit Hash String Band" link="Rabbit-Hash-String-Band-206760203037" %}
 
 ## Mail
 If you would rather write for a brochure or other information, please contact:
@@ -34,16 +36,15 @@ If you would rather write for a brochure or other information, please contact:
 {{ site.author.address }}  
 {{ site.author.citystatezip }}  
 
+
 ## Telephone
 
 Or you may call:
 <i class="fa fa-phone" aria-hidden="true"></i>
 [{{ site.author.phone }}](tel:{{ site.author.phone }})
 
-## Webmaster
 
-This site was originally created by Sarah Childers, and was modernized and maintained by
-[Matt McElheny](https://www.linkedin.com/in/selectstar){: style="white-space:nowrap"}.
+## Webmaster
 
 If you find any errors, please contact [{{ site.author.name }}](mailto:{{ site.author.email }})
 

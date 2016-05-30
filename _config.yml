@@ -35,7 +35,7 @@ author:
 
 gems:
   - jekyll-paginate
-#  - jekyll-gallery-generator
+  # jekyll-gallery-generator
 
 gallery:
   # path to the gallery

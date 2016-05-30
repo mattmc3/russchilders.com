@@ -1,0 +1,11 @@
+gallery:
+  # path to the gallery
+  dir: gallery
+  # title for gallery index
+  title: "Gallery"
+
+images:
+  - path: "cornhusk_dolls/2005clc4.jpg"
+    thumb: ""
+ 
+ 

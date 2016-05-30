@@ -3,8 +3,11 @@ layout: page
 permalink: RHSB_CD_COVER.HTML
 ---
 
-# _Where I Want To Be_
 {:.center}
+# _Where I Want To Be_
+
+{:.center}
+###### Order Information: [{{ site.author.email }}](mailto:{{ site.author.email }})
 
 {: .figure .figure-center .rhsb-cover}
 ![Where_I_Want_To_Be_CD_cover](assets/images/Where_I_Want_To_Be_CD_cover.jpg "Rabbit Hash String Band"){: style="width:400px"}

@@ -4,9 +4,6 @@ TODO:
 [] Google analytics
 [] Russ' doc changes
 [] Study guides
-[] Dances
-[] Activites
-[] Songs
 [] Gallery that is native to Github
 [] Publish
 [] Repoint DNS
