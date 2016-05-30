@@ -5,10 +5,12 @@ permalink: book.html
 
 <div class="home">
 
-  <h1 class="page-heading">Appalachian Booklists</h1>
+  <h1 class="page-heading">
+    {{ site.data.category_details.books.display_name }}
+  </h1>
 
   <ul class="book-list">
-    {% for post in site.categories.Books reversed %}
+    {% for post in site.categories.books reversed %}
       <li>
         <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>

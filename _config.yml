@@ -34,15 +34,15 @@ author:
   facebook         : BearFootMusicStoriesDance
 
 gems:
-  - jekyll-gallery-generator
   - jekyll-paginate
+#  - jekyll-gallery-generator
 
 gallery:
   # path to the gallery
   dir: gallery
   # title for gallery index
   title: "Gallery"
-  
+
 paginate: 5 # amount of posts to show
 paginate_path: /posts/page:num/
 timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

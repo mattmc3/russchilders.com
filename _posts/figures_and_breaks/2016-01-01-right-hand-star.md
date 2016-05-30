@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Right Hand Star"
-category: "Figures and Breaks"
+category: figures_and_breaks
 ordinal: 2
 ---
 

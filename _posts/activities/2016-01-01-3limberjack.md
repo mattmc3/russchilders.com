@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make a clothespin dancer or a limberjack"
-category: Activities
+category: activities
 ordinal: 3
 ---
 

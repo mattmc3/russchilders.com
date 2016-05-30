@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Collect a story from your ancestors"
-category: Activities
+category: activities
 ordinal: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Banjo from Africa to America"
-category: "Study Guides"
+category: studies
 ordinal: 2
 ---
 

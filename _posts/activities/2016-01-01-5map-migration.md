@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Map your migration"
-category: Activities
+category: activities
 ordinal: 5
 ---
 

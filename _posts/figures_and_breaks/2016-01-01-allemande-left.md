@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Allemande Left, And Away You Go"
-category: "Figures and Breaks"
+category: figures_and_breaks
 ordinal: 5
 ---
 

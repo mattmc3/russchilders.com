@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Virginia Reel"
-category: Dances
+category: dances
 ---
 
 Prompts to Virginia Reel:   

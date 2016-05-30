@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Appalachian Christmas"
-category: "Study Guides"
+category: studies
 ordinal: 3
 ---
 

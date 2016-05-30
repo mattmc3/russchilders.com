@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learn the Virginia Reel"
-category: Activities
+category: activities
 ordinal: 2
 ---
 
