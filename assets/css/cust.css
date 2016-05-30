@@ -76,3 +76,16 @@ p.figure-center em {
 
 .page-anchors {
   margin-bottom: 1em; }
+
+.songs, .dances, .figures_and_breaks {
+  color: black;
+  font-size: 12pt; }
+  .songs p, .dances p, .figures_and_breaks p {
+    line-height: normal; }
+  .songs blockquote, .dances blockquote, .figures_and_breaks blockquote {
+    padding-bottom: 0em; }
+
+ul.contact-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0em 0 2em 0; }
