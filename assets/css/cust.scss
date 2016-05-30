@@ -99,3 +99,21 @@ p.figure-center em {
 .page-anchors {
     margin-bottom: 1em;
 }
+
+@mixin music() {
+    color: black;
+    font-size: 10pt;
+}
+
+.songs, .dances, .figures_and_breaks {
+    color: black;
+    font-size: 12pt;
+    
+    p {
+        line-height: normal;
+    }
+    
+    blockquote {
+        padding-bottom: 0em;
+    }
+}

@@ -10,10 +10,10 @@ dances:
     display_name: Dances
     
 figures_and_breaks:
-    display_name: "Figures and Breaks"
+    display_name: "Figures &amp; Breaks"
 
 songs:
     display_name: Songs
     
 studies:
-    display_name: "Studies"
+    display_name: "Study Guidies"
